@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "policy": "LTI-DEVELOPMENT-DOCTRINE-20261030",
+  "repository": "lanardisaac-max/ai_signal_server",
+  "canonicalRepository": "lanardisaac-max/owner-command-center",
+  "canonicalPath": "docs/governance/LTI-DEVELOPMENT-DOCTRINE.md",
+  "canonicalUrl": "https://github.com/lanardisaac-max/owner-command-center/blob/main/docs/governance/LTI-DEVELOPMENT-DOCTRINE.md",
+  "publishedPolicyRevision": "66ca726b8191863f84ea2de19c17a3cd329d13fa",
+  "requiredBeforeEveryHandoff": true,
+  "requiredAfterEveryCheckpoint": true,
+  "ledger": "Resolve and reuse the existing business-wide ledger; do not create a duplicate or reset acceptance.",
+  "publicationDoesNotProveAgentAdoption": true
+}
